@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    border-radius: 40%;
+    border: 2px solid black;
+}
+.b1{
+    background-color: pink;
+}
+.b2{
+    background-color: skyblue;
+}
+.b3{
+    background-color: orange;
+}
+.b4{
+    background-color: seagreen;
+}
+.flash{
+    background-color : white;
+}
+.userflash{
+    background-color: greenyellow;
+}
